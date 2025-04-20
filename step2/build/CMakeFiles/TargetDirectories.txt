@@ -1,0 +1,4 @@
+C:/Users/tsarg/Projects/cmake_tutorial/step2/build/CMakeFiles/step2.dir
+C:/Users/tsarg/Projects/cmake_tutorial/step2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/tsarg/Projects/cmake_tutorial/step2/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/tsarg/Projects/cmake_tutorial/step2/build/lib/CMakeFiles/bank_lib.dir
